@@ -21,7 +21,7 @@
     "lint:prettier": "prettier --check \"{src,test-apps,configs}/**/*.{ts,js,html,css}\""
   },
   "dependencies": {
-    "@octokit/rest": "^19.0.5",
+    "@octokit/rest": "^21.1.1",
     "@types/node": "^18.11.17",
     "axios": "^1.2.2",
     "extract-zip": "^2.0.1",
